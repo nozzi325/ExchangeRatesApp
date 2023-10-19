@@ -19,7 +19,7 @@ This console application utilizes the NBRB API to fetch the official exchange ra
 
 ## Description
 
-This educational project aims to demonstrate how to build a simple console application that interacts with a web API, parses JSON responses, and provides various currency-related functionalities. The application includes SLF4J and Logback for efficient logging, capturing errors and information during its execution.
+This educational project aims to build a simple console application that interacts with a web API, parses JSON responses, and provides various currency-related functionalities. The application includes SLF4J and Logback for efficient logging, capturing errors and information during its execution.
 
 ## Usage
 
